@@ -1,0 +1,13 @@
+{
+  "bucket": {
+    "weixinweb": {
+      "key": {
+        "access_key": "hello",
+        "secret_key": "world"
+      },
+      "locale": [
+        "/Volumes/Macintosh HD 2 1/WORKSPACE/WEB/Front.Weixin/dist/public/"
+      ]
+    }
+  }
+}

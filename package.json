@@ -1,0 +1,25 @@
+{
+  "name": "qiniucmd",
+  "description": "A command tool of qiniu sync.",
+  "Auther": "FooTearth<footearth@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Mooxe000/qiniucmd.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "qiniu": "*",
+    "shelljs": "*",
+    "lodash": "*",
+    "coffee-script": "*",
+    "coffee-trace": "*",
+    "readline-prompter": "*",
+    "yargs": "*",
+    "commander": "*",
+    "fibrous": "*",
+    "fs-sync": "*",
+    "rd": "*",
+    "jsonfile": "*"
+  }
+}

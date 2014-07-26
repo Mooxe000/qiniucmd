@@ -1,0 +1,13 @@
+{
+  "bucket": {
+    "weixinweb": {
+      "key": {
+        "access_key": "C3Yahk51p9X/VIKUil5vOBioePVDMtpS7AKSxwWXLTI1pxStgk5NtFbeKg0cL7GBd2Luv2w4SdeXHvaw5+smQdrp4MUXxljhVdLFawNBzP6MhRntHPvjnxjAm0Lrl/Jdzf5UJySkpvSULMjAE2HNZxaihAd0PomybcTdvofFUbJ2H6Q2oea39hrRGsvEFXbOYRYYQiKui8pJm/8LbZliEA==",
+        "secret_key": "vj4ehbwbabwQvrdncvQ8EuiRLjjIes1mfWzHVR6fts32H6n3+1GENOtVSNAbHhgUBbm4UleHPbymj5+HuRytItd1IeTh2dOIPB550iwN06Q39F9EfDnMBmdABwvwx0f3+ETDJaRrH8Dww5hx0cyG8N3zmthnOSHHAk9JCNKuwLllgJYyGsgCmxgHrHTru8LT0d62rlOkVVn0s5lx2nbdpg=="
+      },
+      "locale": [
+        "/Volumes/Macintosh HD 2 1/WORKSPACE/WEB/Front.Weixin/dist/public/"
+      ]
+    }
+  }
+}
