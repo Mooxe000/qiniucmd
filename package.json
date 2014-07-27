@@ -9,6 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "log": "*",
     "qiniu": "*",
     "shelljs": "*",
     "lodash": "*",
